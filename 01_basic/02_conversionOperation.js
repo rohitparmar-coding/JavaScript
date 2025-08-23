@@ -55,4 +55,6 @@ let str3 = str1 + str2;
 let gameCnt = 1000
 // gameCnt++
 ++gameCnt
-console.log(gameCnt)
+console.log(gameCnt);
+
+
